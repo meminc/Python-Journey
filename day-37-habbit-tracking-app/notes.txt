@@ -1,0 +1,6 @@
+    POST request -> is where we give external system some piece of data and we are not interested in the response
+we're getting back other than whether if it is successful or not
+
+    PUT request -> is where you simply update a piece of data in the external service
+
+    DELETE request -> is simply where you want to delete a piece of data in the external service

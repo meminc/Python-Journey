@@ -1,0 +1,7 @@
+1. Create a GUI
+2. Drop down menu to select existing graphs
+3. Create graph button
+4. Add pixel data button
+5. Update button
+6. delete button
+7. instead of meaking different buttons, make a drop down menu to select POST, PUT, DELETE requests
